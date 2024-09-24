@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="nbt.iptv36.my.to" tvg-name="NBT HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="AIS_DIGITAL", NBT
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/DASH/B0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/Olympics2024_IconTV.png" 
+#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs.iptv36.my.to" tvg-name="THAI PBS HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="AIS_DIGITAL",  THAI PBS HD
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/DASH/B0014.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="5" tvg-id="altv.iptv36.my.to" tvg-name="ALTV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="AIS_DIGITAL",  ALTV
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/DASH/V0085.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="7" tvg-id="tv5.iptv36.my.to" tvg-name="TV5 HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="AIS_DIGITAL", TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/DASH/B0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="9" tvg-id="tsports.iptv36.my.to" tvg-name="T Sports 7" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="AIS_DIGITAL",TSports7
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/DASH/B0129.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="10" tvg-id="tptv.iptv36.my.to" tvg-name="TPTV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="AIS_DIGITAL", TPTV 
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/DASH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="12" tvg-id="tnn16.iptv36.my.to" tvg-name="TNN 16" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="AIS_DIGITAL", TNN 16 
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="14" tvg-id="jkn18.iptv36.my.to" tvg-name="JKN 18" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="AIS_DIGITAL", JKN18 
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/DASH/B0010.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="15" tvg-id="nation.iptv36.my.to" tvg-name="Nation TV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="AIS_DIGITAL", Nation TV
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/DASH/B0021.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+#EXTINF:-1 tvg-chno="17" tvg-id="workpoint.iptv36.my.to" tvg-name="Workpoint" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="AIS_DIGITAL", WorkpointTV
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/DASH/B0015.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="18" tvg-id="true4u.iptv36.my.to" tvg-name="True 4U" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="AIS_DIGITAL", True4U
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+#EXTINF:-1 tvg-chno="20" tvg-id="gmm25.iptv36.my.to" tvg-name="GMM 25" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="AIS_DIGITAL", GMM 25
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+
+#EXTINF:-1 tvg-chno="22" tvg-id="ch8.iptv36.my.to" tvg-name="CH8" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="AIS_DIGITAL",  CH8
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="24" tvg-id="mono29.iptv36.my.to" tvg-name="MONO 29" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="AIS_DIGITAL", MONO29 THAI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mono29-proxy-new.mthai.com/mono29/widevine?video_id=1080th2
+https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080TH.stream/manifest.mpd
+#https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="mono29.iptv36.my.to" tvg-name="MONO 29" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="AIS_DIGITAL", MONO 29
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/DASH/B0016.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="26" tvg-id="mcot.iptv36.my.to" tvg-name="MCOT HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="AIS_DIGITAL",   MCOT HD
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/DASH/B0008.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="28" tvg-id="one.iptv36.my.to" tvg-name="ONE HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="AIS_DIGITAL", ONEHD 31
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/DASH/B0012.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+
+
+#EXTINF:-1 tvg-chno="31" tvg-id="thairath.iptv36.my.to" tvg-name="Thairath TV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="AIS_DIGITAL", Thairath TV
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+#EXTINF:-1 tvg-chno="31" tvg-id="thairath.iptv36.my.to" tvg-name="CH3 HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="AIS_DIGITAL", Channel 3
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+
+#EXTINF:-1 tvg-chno="33" tvg-id="amarin.iptv36.my.to" tvg-name="Amarin TV" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="AIS_DIGITAL",AMARINTV
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+#EXTINF:-1 tvg-chno="35" tvg-id="ch7.iptv36.my.to" tvg-name="CH7 HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="AIS_DIGITAL",  BBTV Channel 7
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
+
+
+#EXTINF:-1 tvg-chno="37" tvg-id="pptv.iptv36.my.to" tvg-name="PPTV HD" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="AIS_DIGITAL", PPTV HD
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=9254645e14816428e9238931f3e93213&chunkHttps=true&tmid=B0014&tpbk=oJevJwGpXYJL6yQR&rrt=1725186884&tmod=rfk&rsid=be684124-32f2-444f-bb2a-2fd15f98a279&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=95b63269f4295b0f92d525dd79f86049&origin=anevia&tfa=f0-fc&tttl=1725273283
+
