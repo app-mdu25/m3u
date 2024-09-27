@@ -166,7 +166,7 @@ https://playidtv24.vercel.app/stream/now/premier1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
+https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
 
 
 
@@ -182,7 +182,7 @@ https://playidtv24.vercel.app/stream/now/premier2.m3u8
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
-#https://playidturl1.github.io/epgtv/ch/truesport/PremierHD2.m3u8
+https://playidturl1.github.io/epgtv/ch/truesport/PremierHD2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True PremierHD 2 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com
@@ -206,7 +206,7 @@ https://playidtv24.vercel.app/stream/now/premier3.m3u8
 www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD3
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
-#https://cdn1.aws-live-streaming.com/ais/epl3/playlist.m3u8
+https://cdn1.aws-live-streaming.com/ais/epl3/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -249,19 +249,18 @@ https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
 #EXTVLCOPT:http-referrer=https://7mthai.net
-#https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
-https://playidtv24.vercel.app/stream/now/premier5.m3u8
+https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-#https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
-#https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
 
 
 
