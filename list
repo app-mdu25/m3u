@@ -307,3 +307,42 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
 
+
+### บันเทิง ###
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="บันเทิง" tvg-id="HBO.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png", HBO TH
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="บันเทิง" tvg-id="HBO Signature.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png", HBO Signature
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="บันเทิง" tvg-id="HBO Hits.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png", HBO Hits
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-0 group-title="บันเทิง" tvg-id="HBO Family.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
+#EXTINF:-1 group-title="บันเทิง" tvg-id="CINEMAX.th" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",CINEMAX
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd?ck=eyJmNDhjYWJhNDY2Mzk0ZTkzYjUwNzgwZjIxNzk4Nzg3YSI6IjlhMDc0YTEwZGI0MzQyZTc5MzcwNzZiM2U1MmY2MDI5In0%3D&headers=eyJvcmlnaW4iOiJodHRwczovL2F5YS1zdHJlYW1lcjIuY2RuLjNiYnR2LmNvbTo4NDQzLzNiYi9saXZlLzEwNy8xMDcubXBkIn0%3D&image=aHR0cHM6Ly8zYmJ0di5jby50aC93cC1jb250ZW50L3RoZW1lcy9jaGFuZ3dhdHRhbmEvaW1nL2NoYW5uZWwvbmV3MjAyMi9DaW5lbWF4LnBuZw%3D%3D&title=CINEMAX
+#https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
