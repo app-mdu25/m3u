@@ -373,5 +373,5 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 
 #EXTINF:-1 group-title="สารคดี" tvg-id="samrojlok" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-4.png",สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streamamg-fa.akamaiz.com/dookeela/samrujlok/chunks.m3u8?nimblesessionid=8124809&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNCAxMTozMTozMSBBTSZoYXNoX3ZhbHVlPWtjZndrQStZc0hJNTgwTElpS2NDZ3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD04ZDMyMGUwNzU3N2Y5YzEyNDZmYjU5NDQ5YzMzYTA2YSZjaGVja2lwPXRydWUmc3RybV9sZW49MTg=|Referer=https://dookeela.live/
+https://streamamg-fa.akamaiz.com/dookeela/samrujlok/playlist.m3u8|Referer=https://dookeela.live/
 
