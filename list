@@ -272,6 +272,11 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",TRUE BALL THAI1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+#https://cdn1.aws-live-streaming.com/ais/trueballthai1/playlist.m3u8
+
 
 
 ### การ์ตูน ###
