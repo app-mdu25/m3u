@@ -360,6 +360,10 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+#EXTINF:-1 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/2a450650-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="บันเทิง", True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
 
 
 
@@ -390,7 +394,7 @@ http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระ
 http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๓ ยุทธนาวี.mkv
 
 #EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-4-2011.jpg",ภาค 4 ศึกนันทบุเรง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๔ ศึกนันทบุเรง.mkv
 
 #EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-5-2014.jpg",ภาค 5 ยุทธหัตถี
