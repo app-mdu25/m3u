@@ -272,10 +272,6 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",TRUE BALL THAI1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=75bfc5d96f0b3240040bb85fbac96c10&chunkHttps=true&tmid=B0006&tpbk=8IRnhCVcxchUH4Xt&rrt=1722147157&tmod=rfk&rsid=91d784ae-d546-43d4-829d-e5d8eec48a89&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1722233557
 
 
 
@@ -408,7 +404,7 @@ http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระ
 
 #EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-4-2011.jpg",ภาค 4 ศึกนันทบุเรง
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://playermhd.p2phls.xyz/ee8ed5eb-6f1c-4151-8f46-1b685dc9dde8/0
+http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/King_Naresuan_4.2011-BlurayRip.1080p.mkv
 
 #EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-5-2014.jpg",ภาค 5 ยุทธหัตถี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
