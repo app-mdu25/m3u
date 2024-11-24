@@ -406,7 +406,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 #EXTINF:-1 tvg-id="samrujlok.iptv36.my.to" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="สารคดี",สำรวจโลก
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://www.dooflixtv.com/
-https://r3-sn-5fo-c37ed1.googleuservideo.com/dooflix_x1/samluaglok/chunks.m3u8?nimblesessionid=8387648&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAwNDozNTo0MCBBTSZoYXNoX3ZhbHVlPStRRWJqMWJJTVUvZ2NBRjRlSjJNUmc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMTU2Njk4
+https://r3-sn-5fo-c37ed1.googleuservideo.com/dooflix_x1/samluaglok/playlist.m3u8?nimblesessionid=8387648&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyNCAwNDozNTo0MCBBTSZoYXNoX3ZhbHVlPStRRWJqMWJJTVUvZ2NBRjRlSjJNUmc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMTU2Njk4
 
 #EXTINF:-1 tvg-id="MySCI.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="สารคดี",MySCI
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
