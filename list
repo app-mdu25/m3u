@@ -328,6 +328,13 @@ https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
+#EXTINF:-0 group-title="การ์ตูน" tvg-id="Boom Anime" tvg-logo="https://raw.githubusercontent.com/app-mdu25/m3u/refs/heads/main/boomanime1.png",Boom Anime
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+
+
+
+
 
 
 ### บันเทิง ###
