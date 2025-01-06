@@ -399,12 +399,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/2a450650-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="บันเทิง", True Xzyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/xzyte.m3u8
 
 #EXTINF:-0 tvg-id="trueseries.th" tvg-name="trueseries" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png" group-title="บันเทิง",TrueSeries
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueseries.m3u8
 
 #EXTINF:-1 group-title="บันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
