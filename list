@@ -404,7 +404,17 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="บันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
+
+
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://dookeela.live/uploads/1719205850.png", True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://playtvthai.github.io/m3u8/movie/trueasianmore.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="บันเทิง",True Film Asia
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/filmasian.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="บันเทิง",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
