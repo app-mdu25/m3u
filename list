@@ -286,9 +286,14 @@ https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",True Sports 4 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports5.th" tvg-logo="https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074backup.png",True Sports 5 
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports7.th" tvg-logo="https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076backup.png",True Sports 7 
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
 
 
 
