@@ -443,7 +443,10 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="สารคดี", Khong Dee Thailand
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=cde82ac3b344c4d30baf557c84e2ecce&chunkHttps=true&tmid=B0001&tpbk=BxzXYVT9NYF5jQZI&rrt=1736050402&tmod=rfk&rsid=bd60596c-a6d7-429f-a697-c4cf3d1e65b8&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1736136802
 
 
 
