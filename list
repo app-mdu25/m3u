@@ -475,3 +475,45 @@ https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
 
 
 
+
+
+### ทรูไทยลีก ###
+
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai1.png" group-title="ทรูไทยลีก",True Ballthai 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai1/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai2.png" group-title="ทรูไทยลีก",True Ballthai 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai2/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai3.png" group-title="ทรูไทยลีก",True Ballthai 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballtha3/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai4.png" group-title="ทรูไทยลีก",True Ballthai 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai4/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai5.png" group-title="ทรูไทยลีก",True Ballthai 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballtha5/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai6.png" group-title="ทรูไทยลีก",True Ballthai 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai6/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai8.png" group-title="ทรูไทยลีก",True Ballthai 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballthai7/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai9.png" group-title="ทรูไทยลีก",True Ballthai 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballtha8/index.m3u8
+#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai10.png" group-title="ทรูไทยลีก",True Ballthai 9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueballtha9/index.m3u8
+
+
