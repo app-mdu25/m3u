@@ -437,34 +437,13 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e94539966b620035e27c20a84f919fd7&chunkHttps=true&tmid=B0006&tpbk=kQT1GiXxd4JwjlTn&rrt=1723278618&tmod=rfk&rsid=d938012e-13a8-4ed5-b00a-ed56258aaeae&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1723365017
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="สารคดี",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
-### หนังเรื่อง ###
 
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-1-2007.jpg",ภาค 1 องค์ประกันหงสา
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๑ องค์ประกันหงสา.mkv
 
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-2-2007.jpg",ภาค 2 ประกาศอิสรภาพ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๒ ประกาศอิสรภาพ.mkv
 
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-3-2011.jpg",ภาค 3 ยุทธนาวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/ตำนานสมเด็จพระนเรศวรมหาราช ภาค ๓ ยุทธนาวี.mkv
 
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-4-2011.jpg",ภาค 4 ศึกนันทบุเรง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ezycdn.com/playlist-hfanoin-SD.m3u8
-
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-4-2011.jpg",ภาค 4 ศึกนันทบุเรง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://9koh.myds.me:64402/Series/Thai/ตำนานสมเด็จพระนเรศวรมหาราช/King_Naresuan_4.2011-BlurayRip.1080p.mkv
-
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-5-2014.jpg",ภาค 5 ยุทธหัตถี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.lnwplayer.com/hls/85cef0fb-975e-4496-b0c4-b5ca9201d596/index.m3u8
-
-#EXTINF:-1 group-title="ตำนานสมเด็จพระนเรศวรมหาราช" tvg-id="Nareson" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/King-Naresuan-6-2015.jpg",ภาค 6 อวสานหงสา
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ezycdn.com/playlist-jpkcccok-SD.m3u8
 
