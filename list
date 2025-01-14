@@ -338,8 +338,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png" group-title="การ์ตูน",DreamWorks
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/dreamworks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+http://43.229.79.245:8080/live/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2769.m3u8
 
 
 
