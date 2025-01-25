@@ -447,7 +447,7 @@ http://43.229.79.245:8080/live/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFx
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e94539966b620035e27c20a84f919fd7&chunkHttps=true&tmid=B0006&tpbk=kQT1GiXxd4JwjlTn&rrt=1723278618&tmod=rfk&rsid=d938012e-13a8-4ed5-b00a-ed56258aaeae&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1723365017
-
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="สารคดี",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
