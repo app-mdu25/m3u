@@ -422,7 +422,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd785e169e7a40c99007d77bc0703563:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://udn-streamer2.cdn.3bbtv.com:8443/3bb/live/306/306.mpd
 
 
