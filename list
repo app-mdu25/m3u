@@ -525,6 +525,32 @@ https://playtvthai.github.io/m3u8/movie/filmasian.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.postimg.cc/X7NThYMK/Movies1.png",Movies 1
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/15672
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.postimg.cc/BnkkX5jN/Movies2.png",Movies 2
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/9198
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.postimg.cc/JnWFQ1ck/Movies3.png",Movies 3
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/15675
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.postimg.cc/fWCPxQ3V/Movies4.png",Movies 4
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/17715
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.postimg.cc/VkrHQSKt/Movies5.png",Movies 5
+#EXTVLCOPT:http-user-agent=playidtv
+http://45.144.165.187:8080/playidtv1/12345/37
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png", Universal
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/MW1.png",Movies world1
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://img2.pic.in.th/pic/MW2.png",Movies world2
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="บันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/MW3.png",Movies Series
+http://49.0.64.96:8007/SERIES
+
+
+
 
 
 
