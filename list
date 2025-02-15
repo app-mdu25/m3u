@@ -418,18 +418,9 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-id="ONE31 HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/306.png" group-title="การ์ตูน", Boomerang (Thai)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://udn-streamer2.cdn.3bbtv.com:8443/3bb/live/306/306.mpd
-
-
-
-#EXTINF:-0 group-title="การ์ตูน" tvg-id="Boomerang (Asia)" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang (Thai)
+#EXTINF:-0 group-title="การ์ตูน" tvg-id="Boomerang (Asia)" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/306.png",Boomerang (Thai)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-id="" tvg-logo="https://img.inwiptv.net/postor/20240418202927CN.jpg",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
