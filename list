@@ -469,6 +469,13 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน" tvg-id="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/306.png",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd785e169e7a40c99007d77bc0703563:1077efecc0b24d02ace33c1e52e2fb4b
+https://cnt1-streamer14.cdn.3bbtv.com:8443/3bb/live/306/306.mpd
+
+
+
 #EXTINF:-1 group-title="การ์ตูน" tvg-id="" tvg-logo="https://img.inwiptv.net/postor/20240418202927CN.jpg",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
