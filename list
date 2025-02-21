@@ -492,7 +492,7 @@ https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png" group-title="การ์ตูน",DreamWorks
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-http://43.229.79.245:8080/live/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2769.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
 
 
 
@@ -611,12 +611,6 @@ http://49.0.64.96:8007/SERIES
 
 
 ### สารคดี ###
-
-#EXTINF:-1 tvg-id="LoveNature4K" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="สารคดี", LOVE Nature 4K
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0b58f6ba324ad5bf123a8098e3ad2f:45906f0ddd1e4c28ba9e9dc138d75da8
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 
 #EXTINF:-1 tvg-id="samrujlok.iptv36.my.to" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="สารคดี",สำรวจโลก
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
