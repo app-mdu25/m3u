@@ -557,20 +557,20 @@ https://playtvthai.github.io/m3u8/movie/xzyte.m3u8
 
 #EXTINF:-0 tvg-id="trueseries.th" tvg-name="trueseries" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png" group-title="บันเทิง",TrueSeries
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueseries.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 
 #EXTINF:-1 group-title="บันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
+http://myserver.myphuket.net:25461/live/test1/test1/55.m3u8
 
 
 #EXTINF:-1 group-title="บันเทิง" tvg-logo="https://dookeela.live/uploads/1719205850.png", True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playtvthai.github.io/m3u8/movie/trueasianmore.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png" group-title="บันเทิง",True Film Asia
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/filmasian.m3u8
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 
 
 
