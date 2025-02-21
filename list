@@ -619,10 +619,8 @@ http://49.0.64.96:8007/SERIES
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 
 #EXTINF:-1 tvg-id="samrujlok.iptv36.my.to" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="สารคดี",สำรวจโลก
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-http://43.229.79.245:8080/live/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75406.m3u8
-
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a37b375db29148e73a16e5f05c594b82&chunkHttps=true&tmid=B0001&tpbk=YbpiMcwM0osflfyT&rrt=1737837002&tmod=rfk&rsid=61491d01-e130-4ca4-ad10-ccbb6cf157d1&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1737921602
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=49c9068bc3c04324d2efa6c2716615e1&chunkHttps=true&tmid=B0001&tpbk=MDJJ1iwHW4Eowz5B&rrt=1740083401&tmod=rfk&rsid=f341d547-ceac-4e97-aa0e-288eb23fc24d&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc%3D&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1740168002
 
 
 #EXTINF:-1 tvg-id="MySCI.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="สารคดี",MySCI
