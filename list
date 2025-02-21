@@ -626,8 +626,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="สารคดี",True Explore Sci
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="สารคดี",True Explore Sci
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/trueexploresci/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png" group-title="สารคดี",True Explore Wild
 #EXTVLCOPT:http-referrer=https://soccertv4k.com/
 https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
