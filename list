@@ -237,30 +237,6 @@ http://iptvview.sytes.net:9090/memfs/c8d0e726-8e97-40cf-b7b9-3e0c6e986b39.m3u8
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png",MONO Music
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/202/202.mpd
-
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/110/110.mpd
-
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" ,afn
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/206/206.mpd
-
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" ,TLC
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/210/210.mpd
-
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/RushStories.png", Rush
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/203/203.mpd
-
-#EXTINF:-1   group-title="ช่องบันเทิง" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",Alure
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/204/204.mpd
-
-
 ########################################
 ช่องข่าว
 ########################################
@@ -319,14 +295,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:1 group-title="ช่องรายการเด็ก" tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg",Boom Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-
-#EXTINF:-1   group-title="ช่องรายการเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",cartoonclub
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/305/305.mpd
-
-#EXTINF:-1   group-title="ช่องรายการเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",boomerang
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-https://cco-streamer4.cdn.3bbtv.com:8443/3bb/live/306/306.mpd
 
 ########################################
 ช่องนานาสาระ
