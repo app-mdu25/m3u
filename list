@@ -108,11 +108,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7ee8bd9557cf6aab9703069eba04ec83&chunkHttps=true&tmid=B0015&tpbk=RbajyyFCYIV5EoKA&rrt=1755781989&tmod=rfk&rsid=49862f20-317c-4342-a7d0-52d1ed88c51f&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755868389
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
