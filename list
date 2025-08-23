@@ -110,7 +110,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7ee8bd9557cf6aab9703069eba04ec83&chunkHttps=true&tmid=B0015&tpbk=RbajyyFCYIV5EoKA&rrt=1755781989&tmod=rfk&rsid=49862f20-317c-4342-a7d0-52d1ed88c51f&tuid=596095e825&cdn=redfox-https&tdid=528e59069574709f71346c8c5aac376b&origin=anevia&tfa=f0-fc&tttl=1755868389
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0018/DASH/B0018.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=5628c80552fb18b2f4efbacb01bee572&chunkHttps=true&tmid=V0048&tpbk=Hp76fBUfU4PozcXd&rrt=1755924892&tmod=rfk&rsid=c69e12dc-c52f-4487-ab4f-74507fe0dcb5&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1756011280
+
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
