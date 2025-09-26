@@ -284,13 +284,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",Boomerang
-https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000012839.png",SUPERCARTOON
-http://iptvview.sytes.net:9090/memfs/bf4c32f2-f8b9-4bdb-966e-a18c35d0f95b.m3u8
-
-#EXTINF:1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWTOON.png",FWTOON
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186649&extension=ts
 
 #EXTINF:1 group-title="ช่องรายการเด็ก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
@@ -303,7 +297,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
-#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://dookeela.live/uploads/1704038567.png",ANIMAX
+#EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://dookeela2.live/uploads/1704038567.png",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
