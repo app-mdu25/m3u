@@ -188,34 +188,34 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186385&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilmasia.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CCM.png",TRUE CCM
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186418&extension=ts
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
 
 #EXTINF:1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWMOV.png",FWMOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzoxMCBBTSZoYXNoX3ZhbHVlPVg0M21uTWhXc0pmVExRZ1NKWW96bVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/FWSOV.png",FWSOV
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+https://live12.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=28861983&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MjA6MTEgQU0maGFzaF92YWx1ZT16M3hsS2VsSGpxcFNVL1NNOFc3YzNRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/SouthernRegion.png",ถิ่นใต้
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDI1IDQ6MzA6MjIgQU0maGFzaF92YWx1ZT1tdVhuMk03d2d4RDZVeVN2OGkrYWpnPT0mdmFsaWRtaW51dGVzPTI=
@@ -321,6 +321,32 @@ http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="ช่องนานาสาระ"   tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/world_science.png",Science
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องนานาสาระ",trueEXPLOREWILD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186458&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="ช่องนานาสาระ",trueEXPLORELIFE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องนานาสาระ",trueEXPLORESCI
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0" group-title="ช่องนานาสาระ",BBCearth
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341517&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvsmagazine.com/images/channels/lrg_130.jpg" group-title="ช่องนานาสาระ",BBCLifestyle
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444208&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="ช่องนานาสาระ", trueX-ZYTE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องนานาสาระ", Samrujlok
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2327b5e3fbce1a2303307146426d70ca&chunkHttps=true&tmid=B0003&tpbk=AzBHx9dW43jbJn3K&rrt=1758854410&tmod=rfk&rsid=93dd6209-6a48-482a-b643-c9d3612a07dd&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1758940810
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องนานาสาระ", MySci
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186535&extension=ts
+
 
 
 ########################################
