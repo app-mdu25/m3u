@@ -341,9 +341,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444208&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="ช่องนานาสาระ", Samrujlok
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2327b5e3fbce1a2303307146426d70ca&chunkHttps=true&tmid=B0003&tpbk=AzBHx9dW43jbJn3K&rrt=1758854410&tmod=rfk&rsid=93dd6209-6a48-482a-b643-c9d3612a07dd&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1758940810
+https://live1.inwstream.com/transcoder_F1/samrujlok_inwiptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องนานาสาระ", MySci
 https://live4.inwstream.com/transcoder_F1/mysci_inwiptv.stream/playlist.m3u8
 
