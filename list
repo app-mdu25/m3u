@@ -39,11 +39,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
-#EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",JKN 18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=333de6034a1d45fe91c829539caf1149:2710efc048ca44bba4c2b57397989a26
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
-
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
@@ -117,11 +112,11 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #http://45.136.252.97:8081/app/pptv/playlist.m3u8
 #http://45.144.166.242:1935/PPTV/t3_pptv/playlist.m3u8
 #https://github.com/cattviptv2605/digital/raw/refs/heads/main/PPTV.m3u8
-https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
+#https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
 
 
 ########################################
