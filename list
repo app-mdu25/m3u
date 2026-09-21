@@ -122,8 +122,7 @@ https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd
 
 
 
