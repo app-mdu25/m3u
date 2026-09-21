@@ -1,14 +1,29 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tot-o.play-rfcdn.ais.th/iptvepg/images/poster/20260901093955069632.png" group-title="เอเชี่ยนเกมส์",เอเชี่ยนเกมส์ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG001/DDF/AG001.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tot-o.play-rfcdn.ais.th/iptvepg/images/poster/20260901094020069633.png" group-title="เอเชี่ยนเกมส์",เอเชี่ยนเกมส์ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG001/DDF/AG002.mpd
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/event20/playlist.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/event20/chunks.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/event21/playlist.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/event21/chunks.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/event22/playlist.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/event22/chunks.m3u8
 
 
 **************************************************************************************************
