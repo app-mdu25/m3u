@@ -148,7 +148,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png" group-title="ช่องดิจิตอล",PPTV HD (3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://3bbgigatv.com/
-https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 
 
 
