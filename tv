@@ -24,6 +24,14 @@ https://cdn1.googlecdnforstreaming.live/live/event22/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/event22/chunks.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/event23/playlist.m3u8
+#EXTINF:-1 group-title="เอเชี่ยนเกมส์" tvg-logo="https://cdn.imgchest.com/files/f26ffa3bf3da.jfif", Asian Games 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/event23/chunks.m3u8
 
 
 **************************************************************************************************
