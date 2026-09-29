@@ -186,3 +186,97 @@ https://live-us1.thaimomo.com/live-as/chpptv-1/playlist.m3u8
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
 #EXTVLCOPT:network-caching=1000
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776141
+
+*********************************************************************************************************
+
+
+#EXTINF:-1 tvg-id="ch0000000000100002781" tvg-name="เอเชียนเกมส์ 901" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901093955069632.png" group-title="AIS",เอเชียนเกมส์ 901
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG001/DNF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwfPDuHATrB49A6C0YLMUN6po4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002782" tvg-name="เอเชียนเกมส์ 902" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094020069633.png" group-title="AIS",เอเชียนเกมส์ 902
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG002/DNF/AG002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwccChb%2Bf%2FhbTAZupLm2RilTo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002783" tvg-name="เอเชียนเกมส์ 903" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094040069634.png" group-title="AIS",เอเชียนเกมส์ 903
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG003/DNF/AG003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwe4IrrrCksi8xUMncufp30qo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002784" tvg-name="เอเชียนเกมส์ 904" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094102069635.png" group-title="AIS",เอเชียนเกมส์ 904
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG004/DNF/AG004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwcM5J8uihqA3RlPhljxc3b9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002785" tvg-name="เอเชียนเกมส์ 905" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094213069636.png" group-title="AIS",เอเชียนเกมส์ 905
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG005/DNF/AG005.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwdpOcAh%2F2l7qgxDXET19Vd7o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002786" tvg-name="เอเชียนเกมส์ 906" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094243069637.png" group-title="AIS",เอเชียนเกมส์ 906
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG006/DNF/AG006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwcJV9PQPkts4REy9m46IybZo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002791" tvg-name="เอเชียนเกมส์ 907" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094302069638.png" group-title="AIS",เอเชียนเกมส์ 907
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG007/DNF/AG007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwcm6tJ90aYpJyNmBX14U8R%2Bo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002787" tvg-name="เอเชียนเกมส์ 908" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094321069639.png" group-title="AIS",เอเชียนเกมส์ 908
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG008/DNF/AG008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwe%2FoZr5E5VSIJrCO%2Bs7qmI2o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002801" tvg-name="เอเชียนเกมส์ 909" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094341069641.png" group-title="AIS",เอเชียนเกมส์ 909
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG009/DNF/AG009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwd8QHZtxfO%2BIYKFNzkSRDLko4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002788" tvg-name="เอเชียนเกมส์ 910" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094401069640.png" group-title="AIS",เอเชียนเกมส์ 910
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG010/DNF/AG010.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwfJqD1NxQpQX8Dsseo0Tj%2Fzo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002789" tvg-name="เอเชียนเกมส์ 911" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094417069651.png" group-title="AIS",เอเชียนเกมส์ 911
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG011/DNF/AG011.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwc1KoVcYogG1NV%2FamjpoFD7o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002790" tvg-name="เอเชียนเกมส์ 912" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094435069652.png" group-title="AIS",เอเชียนเกมส์ 912
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG012/DNF/AG012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwf4pXv%2FseKL6AlOT6%2BykCo%2Bo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002811" tvg-name="เอเชียนเกมส์ 913" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094454069653.png" group-title="AIS",เอเชียนเกมส์ 913
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG013/DNF/AG013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwdmmmHvudTI%2BzC4ewTrhgamo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002812" tvg-name="เอเชียนเกมส์ 914" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094513069654.png" group-title="AIS",เอเชียนเกมส์ 914
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG014/DNF/AG014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwf%2FSnXvDLkPK71iL39R2Qebo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002813" tvg-name="เอเชียนเกมส์ 915" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094534069655.png" group-title="AIS",เอเชียนเกมส์ 915
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG015/DNF/AG015.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwe7s4C1JlHRTmy86VacYbO0o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002814" tvg-name="เอเชียนเกมส์ 916" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094556069656.png" group-title="AIS",เอเชียนเกมส์ 916
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG016/DNF/AG016.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIweAkjNEQ79JXbRMHuwyVT4Wo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002792" tvg-name="เอเชียนเกมส์ 917" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260901094614069657.png" group-title="AIS",เอเชียนเกมส์ 917
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG017/DNF/AG017.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwedH6HwN2bRX8MMonG8P4Mdo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-id="ch0000000000100002861" tvg-name="เอเชียนเกมส์ 918" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260916093937071863.png" group-title="AIS",เอเชียนเกมส์ 918
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG018/DNF/AG018.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNnPHYdsTCwkPZwj5LUbuIwdhFLsEgjr9yZBH0ORH4TnKo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
