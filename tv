@@ -141,7 +141,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #https://github.com/cattviptv2605/digital/raw/refs/heads/main/PPTV.m3u8
 #https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
 
-#EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD(2)
+#EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD(1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
