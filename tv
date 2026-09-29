@@ -25,39 +25,6 @@ https://cdn1.googlecdnforstreaming.live/live/event22/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/event22/chunks.m3u8
 
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP DAZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-http://line.tv4k.top:80/play/live.php?mac=00:1B:79:41:2C:8C&stream=1313096&extension=m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://sp-tr321.com/
-https://sp-tr321.com/resteam1/index.m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://sp-tr321.com/
-https://sp-tr321.com/resteam2/index.m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://sp-tr321.com/
-https://sp-tr321.com/resteam4/index.m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://sp-tr321.com/
-https://sp-tr321.com/resteam9/index.m3u8
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://atmflix.live/football/655230
-#EXTINF:-1 group-title="FIFA ASAIN CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/AFC_Asian_Cup.png", FIFA ASAIN CUP 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://atmflix.live/football/655197
-
 
 
 **************************************************************************************************
@@ -186,6 +153,12 @@ https://live-us1.thaimomo.com/live-as/chpptv-1/playlist.m3u8
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD
 #EXTVLCOPT:network-caching=1000
 http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776141
+
+#EXTINF:-1 tvg-id="ch0000000000100001171" tvg-name="PPTV HD" tvg-logo="" group-title="ช่องดิจิตอล",PPTV HD (3)
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0022/DNH/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6Mivx%2FFt3MNH2Vl2wPoQwdSwMotv3vyLTEA%2FQGAUM%3D&authinfo=NHrMvYnDBpKyS935Qt74lcd%2FlilEtv95sDtj%2B5cKql7KWhIPimd4Rf0V9AAKWctBo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+
 
 *********************************************************************************************************
 
